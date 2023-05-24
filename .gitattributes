@@ -1,1 +1,1 @@
-*.* linguist-language=R
+*.[Rr]md  linguist-detectable
